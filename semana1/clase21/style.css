@@ -1,0 +1,13 @@
+.caja{
+    border: 10px inset rgb(230, 133, 213);
+    background-color: beige;
+    color: rgb(112, 48, 23);
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    width: 700px;
+    
+}
+img{
+    border: 5px solid rgb(120, 120, 228);
+}
